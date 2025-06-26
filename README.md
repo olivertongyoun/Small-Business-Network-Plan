@@ -54,7 +54,9 @@ ip access-list extended BLOCK-GUEST
 deny ip 192.168.20.0 0.0.0.255 192.168.10.0 0.0.0.255
 permit ip any any
 
-🧠 What I Learned
+---
+
+## 🧠 What I Learned
 Network segmentation using VLANs for secure design
 
 Configuring router-on-a-stick and trunk ports
@@ -63,7 +65,9 @@ Securing public wireless access and isolating traffic
 
 IP planning for small business use cases
 
-🚀 Future Enhancements
+---
+
+## 🚀 Future Enhancements
 Add NAT for internet access simulation
 
 Configure SNMP for monitoring
