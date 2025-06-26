@@ -8,4 +8,4 @@ This project simulates a scalable network infrastructure for a small café. The 
 
 ## 🗺️ Network Topology
 
-Network Diagram(https://i.imgur.com/0k264m4.png)
+![Network Diagram](https://i.imgur.com/0k264m4.png)
